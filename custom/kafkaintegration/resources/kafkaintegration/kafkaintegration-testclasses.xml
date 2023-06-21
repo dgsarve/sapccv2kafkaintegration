@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><kafkaintegration><testclass>com.prakash.integration.jalo.KafkaintegrationTest</testclass><testclass>com.prakash.integration.service.impl.DefaultKafkaintegrationServiceIntegrationTest</testclass></kafkaintegration></testclasses>
